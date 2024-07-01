@@ -1,0 +1,28 @@
+a{
+    text-decoration: none;
+    color: brown;
+}
+h4{
+    background-color: aquamarine;
+    text-align: right;
+}
+#a1{
+    text-decoration: none;
+    color: brown;
+}
+#d1{
+    background-color: blue;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#d2{
+    background-color: brown;
+    text-align: center;
+}
+#d3{
+    color:blue;
+    margin: 5% 10% 5% 30%;
+}
+.grp1{
+    background-color: blue;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
